@@ -1,3 +1,20 @@
+Overview
+This is an application that allow the user to enter any .................................................
+
+Getting Started
+Architecture
+This is build as a react js application, using axios library.jsonwebtoken, jwks-rsa
+
+Change Log
+deploying link https://can-of-books-backend-tn.herokuapp.com/
+
+Available Scripts
+In the project directory, you can run:
+
+
+
+
+
 # Start your own "Can of Books" App
 
 This repository has starter code to begin work on creating your own online bookshelf.
